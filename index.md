@@ -6,7 +6,7 @@
 
 
 
-- [A Walled City](https://pages.jsv.me/chiangmai/)
+- [A Walled City](/chiangmai/)
 - 
 
 
